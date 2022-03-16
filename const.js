@@ -1,6 +1,9 @@
 const allCommands = `
-/start-перезапустить бота
-/help-помощь`;
+/start-restart bot
+/help-all commads
+/menu-call menu
+/auth-authentication user
+/begin-remove data user`;
 
 const beginText = `<b>Welcome my friend!</b> `;
 module.exports.allCommands = allCommands;
